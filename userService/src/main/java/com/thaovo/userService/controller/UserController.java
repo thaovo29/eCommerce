@@ -1,10 +1,10 @@
-package com.thaovovo.userService.controller;
+package com.thaovo.userService.controller;
 
-import com.thaovovo.userService.data.Role;
-import com.thaovovo.userService.data.User;
-import com.thaovovo.userService.model.AddRoleToUser;
-import com.thaovovo.userService.model.UserDTO;
-import com.thaovovo.userService.service.IUserService;
+import com.thaovo.userService.data.Role;
+import com.thaovo.userService.data.User;
+import com.thaovo.userService.model.AddRoleToUser;
+import com.thaovo.userService.model.UserDTO;
+import com.thaovo.userService.service.IUserService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 

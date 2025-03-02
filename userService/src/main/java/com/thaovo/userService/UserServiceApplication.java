@@ -1,4 +1,4 @@
-package com.thaovovo.userService;
+package com.thaovo.userService;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

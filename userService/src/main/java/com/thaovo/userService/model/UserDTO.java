@@ -1,4 +1,4 @@
-package com.thaovovo.userService.model;
+package com.thaovo.userService.model;
 
 public class UserDTO {
     private Long id;

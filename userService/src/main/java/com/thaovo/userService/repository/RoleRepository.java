@@ -1,6 +1,6 @@
-package com.thaovovo.userService.repository;
+package com.thaovo.userService.repository;
 
-import com.thaovovo.userService.data.Role;
+import com.thaovo.userService.data.Role;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 public interface RoleRepository extends JpaRepository<Role, Long> {

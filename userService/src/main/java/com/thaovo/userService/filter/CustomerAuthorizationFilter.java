@@ -1,4 +1,4 @@
-package com.thaovovo.userService.filter;
+package com.thaovo.userService.filter;
 
 import com.auth0.jwt.JWT;
 import com.auth0.jwt.JWTVerifier;

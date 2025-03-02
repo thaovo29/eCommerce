@@ -1,4 +1,4 @@
-package com.thaovovo.userService.data;
+package com.thaovo.userService.data;
 
 import jakarta.persistence.*;
 
